@@ -52,6 +52,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arcade\CodeArcade\IntroGates\MetroCardTests.cs" />
     <Compile Include="Arcade\CodeArcade\IntroGates\Sut.cs" />
     <Compile Include="Arcade\CodeArcade\IntroGates\PhoneCallTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
